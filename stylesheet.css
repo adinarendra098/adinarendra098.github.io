@@ -105,13 +105,13 @@ heading {
 }
 
 papertitle {
-  font-family: 'Futura LT';
+  font-family: "Futura LT";
   font-style: normal;
   font-weight: 600;
 }
 
 name {
-  font-family: "CMU Serif", sans-serif, Helvetica, Arial;
+  font-family: 'CMS', sans-serif, Helvetica, Arial;
   font-size: 32px;
 }
 
